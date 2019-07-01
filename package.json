@@ -1,0 +1,19 @@
+{
+  "name": "concat-and-pop-cesarnpm",
+  "version": "1.0.0",
+  "description": "This is an npm where you will be able to use the method concat & the method pop",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CesarCachay/my-npm.git"
+  },
+  "keywords": [
+    "concat"
+  ],
+  "author": "Cesar Cachay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CesarCachay/my-npm/issues"
+  },
+  "homepage": "https://github.com/CesarCachay/my-npm#readme"
+}
