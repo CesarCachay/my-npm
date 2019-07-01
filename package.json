@@ -1,7 +1,7 @@
 {
-  "name": "concat-and-pop-cesarnpm",
+  "name": "methods-cesar-npm",
   "version": "1.0.1",
-  "description": "This is an npm where you will be able to use the method concat & the method pop",
+  "description": "This is an npm where you will be able to use 2 methods of JavaScript which their names changed & 2 methods of ruby",
   "main": "index.js",
   "repository": {
     "type": "git",
