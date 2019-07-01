@@ -1,6 +1,6 @@
 {
   "name": "methods-cesar-npm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is an npm where you will be able to use 2 methods of JavaScript which their names changed & 2 methods of ruby",
   "main": "index.js",
   "repository": {
