@@ -10,7 +10,14 @@
   "keywords": [
     "concat"
   ],
+  "scripts": {
+    "build": "microbundle",
+    "dev": "microbundle watch"
+  },
   "author": "Cesar Cachay",
+  "devDependencies": {
+    "microbundle": "^0.11.0"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/CesarCachay/my-npm/issues"
